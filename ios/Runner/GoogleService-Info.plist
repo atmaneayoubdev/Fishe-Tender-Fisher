@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>211678426929-i2iug597h8pi4o6tj8dk1bf3e8kit5r3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.211678426929-i2iug597h8pi4o6tj8dk1bf3e8kit5r3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>211678426929-seqs794978jbbe4val13aasjrhe1m5ho.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcYv-pRc2IHjlZwVIA5Htl9R7-LzS4B-4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>211678426929</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hoskadev.fish-tender-fisher</string>
+	<key>PROJECT_ID</key>
+	<string>fish-tender</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fish-tender.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:211678426929:ios:b26657b26c267ff278e210</string>
+</dict>
+</plist>
